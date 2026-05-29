@@ -47,17 +47,12 @@ AI-generated explanation retrieved from the uploaded document.
 
 # Project Screenshot
 
-Add your project screenshot here.
 
-```md
+
+
 ![Project Screenshot](screenshot/pdf_assistant.png)
-```
 
-# Screenshots
 
-<p align="center">
-  <img src="screenshots/pdf_assistant.png" width="800"/>
-</p>
 
 
 
