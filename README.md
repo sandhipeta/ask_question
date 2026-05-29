@@ -53,6 +53,14 @@ Add your project screenshot here.
 ![Project Screenshot](screenshot/pdf_assistant.png)
 ```
 
+# Screenshots
+
+<p align="center">
+  <img src="screenshots/pdf_assistant.png" width="800"/>
+</p>
+
+
+
 ---
 
 # Technologies Used
