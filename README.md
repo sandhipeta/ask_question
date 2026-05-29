@@ -50,7 +50,7 @@ AI-generated explanation retrieved from the uploaded document.
 Add your project screenshot here.
 
 ```md
-![Project Screenshot](image.png)
+![Project Screenshot](screenshot/pdf_assistant.png)
 ```
 
 ---
